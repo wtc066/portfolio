@@ -1,0 +1,95 @@
+.info {
+    position: relative;
+    width: 420px;
+    height: 400px;
+    margin-right: 44px;
+}
+.info:last-child {
+    margin-right: 0;
+} 
+    
+
+.info--wide {
+    width: 890px;
+}
+.info--medium {
+    width: 530px;
+}
+.info--large {
+    width: 777px;
+}
+
+.info_img {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    object-position: center;
+}
+.info_content {
+    display: block;
+    position: absolute;
+    opacity: 0;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    font-family: 'Teko';
+    color: #ffffff;
+    text-transform: uppercase;
+    background-color: hsla(222, 100%, 30%, 0.75);
+    transition: opacity 0.2s ease-in;
+}
+.info_content:hover {
+    opacity: 1;
+}
+.info_content-title {
+    position: absolute;
+    top: 50px;
+    left: 45px;
+    width: 270px;
+    font-size: 38px;
+    font-weight: 500;
+    line-height: 0.9;
+    letter-spacing: 2.73px;
+}
+
+.info--wide .info_content-title {
+    position: absolute;
+    top: 100px;
+    left: 145px;
+    width: 400px;
+    font-size: 68px;
+}
+
+.info_content-discount {
+    position: absolute;
+    right: 30px;
+    bottom: 30px;
+    width: 100px;
+    font-size: 68px;
+    font-weight: 700;
+    line-height: 0.9;
+    text-transform: uppercase;
+}
+
+.info--wide .info_content-discount {
+    position: absolute;
+    right: 95px;
+    bottom: 127px;
+    width: 120px;
+    font-size: 78px;
+}
+.info_content-discount span {
+    font-size: 30px;
+    font-weight: 500;
+    line-height: 1;
+    text-transform: uppercase;
+}
+
+.info--wide .info_content-discount span {
+    font-size: 43px;
+
+}
