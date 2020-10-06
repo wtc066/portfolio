@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f32641c5-1169-4bec-8ec4-e568d1390015" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/background.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/clouds.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/harley/Main - Harley Davidson.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/harley/css/bottom-info.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/harley/css/footer.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/harley/css/gallery.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/harley/css/header.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/harley/css/info.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/harley/css/products.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/harley/css/section-service.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/harley/css/social.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/harley/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/harley/css/subscribe.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/harley/css/top-banners.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/harley/css/top-info.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/harley/css/top-panel.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/harley/css/utils.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/harley/harley.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/harley/img/gallery/gallery_01.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/harley/img/gallery/gallery_02.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/harley/img/gallery/gallery_03.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/harley/img/header-bg1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/harley/img/header-bg2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/harley/img/icons/call.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/harley/img/icons/cart.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/harley/img/icons/money.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/harley/img/icons/search.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/harley/img/icons/truck.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/harley/img/icons/user.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/harley/img/info/.directory" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/harley/img/info/info_1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/harley/img/info/info_2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/harley/img/info/info_3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/harley/img/info/info_4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/harley/img/info/info_5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/harley/img/info/info_6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/harley/img/logo/ebay.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/harley/img/logo/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/harley/img/logo/logo1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/harley/img/logo/master.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/harley/img/logo/visa.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/harley/img/products/01.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/harley/img/products/02.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/harley/img/products/03.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/harley/js/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$/serfing" value="gh-pages" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+  </component>
+  <component name="ProjectId" id="1hVRrupXK1Pjy5bvrel7ZoFn9sM" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ChangesTree.GroupingKeys" value="directory&#10;repository" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f32641c5-1169-4bec-8ec4-e568d1390015" name="Default Changelist" comment="" />
+      <created>1600094474961</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1600094474961</updated>
+      <workItem from="1600094476010" duration="1620000" />
+      <workItem from="1600171407951" duration="151000" />
+      <workItem from="1600239391330" duration="7543000" />
+      <workItem from="1600260618245" duration="652000" />
+      <workItem from="1600335813570" duration="3112000" />
+      <workItem from="1600417785430" duration="2721000" />
+      <workItem from="1600518785782" duration="3648000" />
+      <workItem from="1600603805275" duration="5581000" />
+      <workItem from="1600679291569" duration="1440000" />
+      <workItem from="1600682667232" duration="3913000" />
+      <workItem from="1600783261409" duration="5738000" />
+      <workItem from="1600861731369" duration="3603000" />
+      <workItem from="1600951257387" duration="7678000" />
+      <workItem from="1601038748059" duration="2886000" />
+      <workItem from="1601213284658" duration="2812000" />
+      <workItem from="1601554333884" duration="4800000" />
+      <workItem from="1601735553307" duration="1347000" />
+      <workItem from="1601805992195" duration="5037000" />
+      <workItem from="1601909247911" duration="5801000" />
+      <workItem from="1601971409692" duration="366000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="436" y="203" width="490" height="337" key="#Notifications" timestamp="1600171418211">
+      <screen x="0" y="0" width="1366" height="744" />
+    </state>
+    <state x="436" y="203" width="490" height="337" key="#Notifications/0.0.1366.744@0.0.1366.744" timestamp="1600171418211" />
+    <state x="466" y="131" width="430" height="482" key="FileChooserDialogImpl" timestamp="1601814917488">
+      <screen x="0" y="0" width="1366" height="744" />
+    </state>
+    <state x="466" y="131" width="430" height="482" key="FileChooserDialogImpl/0.0.1366.744@0.0.1366.744" timestamp="1601814917488" />
+    <state x="503" y="294" key="Github.CreateGistDialog" timestamp="1601911677841">
+      <screen x="0" y="0" width="1366" height="744" />
+    </state>
+    <state x="503" y="294" key="Github.CreateGistDialog/0.0.1366.744@0.0.1366.744" timestamp="1601911677841" />
+    <state x="266" y="118" width="830" height="506" key="IDE.errors.dialog" timestamp="1600240831267">
+      <screen x="0" y="0" width="1366" height="744" />
+    </state>
+    <state x="266" y="118" width="830" height="506" key="IDE.errors.dialog/0.0.1366.744@0.0.1366.744" timestamp="1600240831267" />
+    <state x="187" y="8" key="SettingsEditor" timestamp="1601816119053">
+      <screen x="0" y="0" width="1366" height="744" />
+    </state>
+    <state x="187" y="8" key="SettingsEditor/0.0.1366.744@0.0.1366.744" timestamp="1601816119053" />
+    <state x="278" y="109" width="806" height="526" key="Vcs.Push.Dialog.v2" timestamp="1601912177280">
+      <screen x="0" y="0" width="1366" height="744" />
+    </state>
+    <state x="278" y="109" width="806" height="526" key="Vcs.Push.Dialog.v2/0.0.1366.744@0.0.1366.744" timestamp="1601912177279" />
+    <state x="484" y="275" width="393" height="193" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1601911795969">
+      <screen x="0" y="0" width="1366" height="744" />
+    </state>
+    <state x="484" y="275" width="393" height="193" key="git4idea.remote.GitConfigureRemotesDialog/0.0.1366.744@0.0.1366.744" timestamp="1601911795969" />
+  </component>
+</project>
